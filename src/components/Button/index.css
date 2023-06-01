@@ -1,0 +1,39 @@
+.btn {
+  background-color: #475164;
+  border-radius: 4px;
+  border: none;
+  color: #fff;
+  font-size: 1em;
+}
+
+.btn:hover {
+  background-color: #475164b4;
+}
+
+.btn:active {
+  background-color: #404a5c;
+}
+
+.operation {
+  background-color: #2c3442;
+}
+
+.operation:hover {
+  background-color: #36404e;
+}
+
+.operation:active {
+  background-color: #313947;
+}
+
+.equal {
+  background-color: #4ea362;
+}
+
+.equal:hover {
+  background-color: #499c5cd8;
+}
+
+.equal:active {
+  background-color: #3f804e;
+}

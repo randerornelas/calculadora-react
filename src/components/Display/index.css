@@ -1,0 +1,10 @@
+.display {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  font-size: 3em;
+  height: 1fr;
+  grid-column: span 4;
+  padding: 1rem;
+  color: #fff;
+}

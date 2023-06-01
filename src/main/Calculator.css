@@ -1,0 +1,12 @@
+.calculator {
+  width: 18rem;
+  height: 26rem;
+  border: solid #151A23 4px;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #151A23;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2px;
+}
